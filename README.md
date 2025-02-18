@@ -5,13 +5,19 @@
 ### Set up
 
 ```bash
-git clone 
+git clone https://github.com/sukhlotey/Live-news.git
 ```
 ```bash
 yarn
 ```
 ```bash
 Get your Api get from https://gnews.io/
+```
+```bash
+touch .env
+```
+```bash
+REACT_API_KEY= "Your-api-key"
 ```
 ```bash
 yarn start
